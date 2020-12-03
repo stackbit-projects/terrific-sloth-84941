@@ -32,7 +32,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensagem
-        default_value: Não poupe palavras
+        default_value: Digite aqui a sua mensagem
       - input_type: checkbox
         name: consent
         label: >-
