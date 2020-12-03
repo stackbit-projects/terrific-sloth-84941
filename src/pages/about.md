@@ -1,6 +1,6 @@
 ---
 title: Quem sou eu?
-subtitle: This is a short page about us and our work.
+subtitle: Você deve estar se perguntando
 image: images/about.jpg
 template: page
 ---
