@@ -10,7 +10,7 @@
                 "label": "Início",
                 "url": "/",
                 "style": "icon",
-                "icon_class": "<i class=\"fa fa-home\" aria-hidden=\"true\"></i>"
+                "icon_class": ""
             },
             {
                 "label": "Portfólio",
