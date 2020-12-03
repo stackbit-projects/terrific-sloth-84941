@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Como eu faço?
-    subtitle: 'Um pouco sobre o '
+    subtitle: 'Um pouco sobre o processo '
     col_number: two
     is_numbered: true
     grid_items:
