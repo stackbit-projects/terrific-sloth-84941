@@ -9,7 +9,7 @@ sections:
       Designer com enfâse em Design Gráfico e UX/UI Design. Atualmente, cursando
       ensino superior, estudando inglês e aprendendo diariamente sobre design.
     actions:
-      - label: Let's talk
+      - label: Vamos conversar?
         url: /contact
         style: button
   - section_id: latest-projects
