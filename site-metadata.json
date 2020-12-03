@@ -9,7 +9,7 @@
             {
                 "label": "Início",
                 "url": "/",
-                "style": "button"
+                "style": "link"
             },
             {
                 "label": "Portfólio",
