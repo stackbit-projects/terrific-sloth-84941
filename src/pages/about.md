@@ -1,6 +1,6 @@
 ---
 title: Quem sou eu?
-subtitle: Você deve estar se perguntando
+subtitle: 'Você deve estar se perguntando, mas aqui está sua resposta'
 image: images/about.jpg
 template: page
 ---
