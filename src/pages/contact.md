@@ -24,7 +24,7 @@ sections:
       - input_type: select
         name: Escolha um
         label: Assunto
-        default_value: Escolha um
+        default_value: Selecione um assunto
         options:
           - Orçamento
           - Dúvidas
