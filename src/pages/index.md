@@ -22,7 +22,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: O que eu faço
+    title: O que eu faço?
     subtitle: Conheça um pouco sobre o que eu faço e onde posso ajudar você
     col_number: two
     is_numbered: true
