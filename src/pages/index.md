@@ -71,7 +71,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Últimas postagens no blog
-    subtitle: Feito pra você entender um pouco sobre o design
+    subtitle: Feito pra você entender um pouco sobre o que é Design
     posts_number: 3
     col_number: three
     actions:
