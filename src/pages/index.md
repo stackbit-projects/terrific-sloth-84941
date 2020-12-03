@@ -18,7 +18,7 @@ sections:
     title: Últimos projetos
     subtitle: Aqui está alguns dos meus trabalhos
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Ver mais
     view_all_url: portfolio
   - section_id: services
     type: section_grid
