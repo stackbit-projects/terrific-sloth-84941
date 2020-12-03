@@ -68,14 +68,6 @@
                 "new_window": true
             },
             {
-                "label": "",
-                "url": "lorem-ipsum",
-                "style": "icon",
-                "icon_class": "fa-envelope",
-                "new_window": false,
-                "type": "action"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "icon",
