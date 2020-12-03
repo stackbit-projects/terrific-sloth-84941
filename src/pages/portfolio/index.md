@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: 'Aqui você '
+subtitle: Meus últimos projetos
 layout_style: mosaic
 template: portfolio
 ---
