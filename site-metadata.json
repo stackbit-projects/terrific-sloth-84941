@@ -9,7 +9,7 @@
             {
                 "label": "Início",
                 "url": "/",
-                "style": "icon",
+                "style": "link",
                 "icon_class": ""
             },
             {
