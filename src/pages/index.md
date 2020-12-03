@@ -77,6 +77,6 @@ sections:
     actions:
       - label: Leia mais
         url: blog
-        style: icon
+        style: button
 template: advanced
 ---
