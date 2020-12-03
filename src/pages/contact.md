@@ -39,7 +39,7 @@ sections:
           Eu entendo que este formulário está armazenando minhas informações
           enviadas para que eu possa ser contatado.
         is_required: true
-      - input_type: text
+      - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
