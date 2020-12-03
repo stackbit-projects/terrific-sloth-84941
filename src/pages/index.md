@@ -75,7 +75,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: Modo completo
+      - label: Leia mais
         url: blog
         style: button
 template: advanced
