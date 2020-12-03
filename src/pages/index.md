@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Oi, eu sou o Murilo e aqui está um pouco do meu trabalho.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Designer com enfâse em Design Gráfico e UX/UI Design. Atualmente, cursando
+      ensino superior, estudando inglês e aprendendo diariamente sobre design.
     actions:
       - label: Let's talk
         url: /contact
