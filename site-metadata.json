@@ -35,14 +35,7 @@
     },
     "footer": {
         "content": "&copy; Murilo Roque. Todos os direitos reservados.",
-        "links": [
-            {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "links": [],
         "has_social": true,
         "social_links": [
             {
