@@ -4,7 +4,6 @@ image: images/thank-you.jpg
 template: page
 ---
 
-Obrigado por ter entrado em contato, fico muito feliz com isso. Prometo que irei responder o mais rápido possivel, tá? :)
-
+Obrigado por ter entrado em contato, irei responder o mais rápido possível.
 
 **Tenha um ótimo dia!**
