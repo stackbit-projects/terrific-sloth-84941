@@ -61,20 +61,21 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            },
-            {
                 "label": "WhatsApp",
                 "url": "WhatsApp",
                 "style": "icon",
                 "icon_class": "fa-whatsapp",
                 "new_window": false,
                 "type": "action"
-            }
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {}
         ]
     },
     "title": "Projetos para sua empresa"
