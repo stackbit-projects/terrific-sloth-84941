@@ -48,7 +48,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: 'O que motiva e comprova '
+    title: O que motiva...
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
