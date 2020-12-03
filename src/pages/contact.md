@@ -39,13 +39,6 @@ sections:
           Eu entendo que este formulário está armazenando minhas informações
           enviadas para que eu possa ser contatado.
         is_required: true
-      - input_type: tel
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Enviar
 template: advanced
 ---
