@@ -31,7 +31,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/9.jpg"
     },
     "footer": {
         "content": "&copy; Murilo Roque. Todos os direitos reservados.",
