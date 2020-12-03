@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Página ",
                 "url": "/",
                 "style": "link",
                 "icon_class": "fa-home"
