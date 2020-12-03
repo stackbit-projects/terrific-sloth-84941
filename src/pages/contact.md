@@ -38,6 +38,7 @@ sections:
         label: >-
           Eu entendo que este formulário está armazenando minhas informações
           enviadas para que eu possa ser contatado.
+        is_required: true
     submit_label: Enviar
 template: advanced
 ---
