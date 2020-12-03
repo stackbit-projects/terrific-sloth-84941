@@ -19,7 +19,7 @@ sections:
     subtitle: Aqui está alguns dos meus trabalhos
     projects_number: 6
     view_all_label: Ver mais
-    view_all_url: portfolio
+    view_all_url: Conhecer
   - section_id: services
     type: section_grid
     title: O que eu faço?
