@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Obrigado!
 image: images/thank-you.jpg
 template: page
 ---
