@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.A
+subtitle: 'Aqui você '
 layout_style: mosaic
 template: portfolio
 ---
