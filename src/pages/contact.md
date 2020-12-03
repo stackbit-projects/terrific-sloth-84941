@@ -7,7 +7,7 @@ sections:
     content: >-
       Olá, obrigado pelo interesse em trabalhar comigo. Você pode preencher o
       formulário abaixo ou enviar um e-mail diretamente para
-      [murilopesr@gmail.com](mailto:murilopesr@gmail.com).
+      [murilopesr@gmail.com](https://mailto:murilopesr@gmail.com)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
