@@ -19,7 +19,7 @@ sections:
       - input_type: email
         name: email
         label: E-mail
-        default_value: Your email address
+        default_value: Digite aqui o seu melhor e-mail
         is_required: true
       - input_type: select
         name: Escolha um assunto
