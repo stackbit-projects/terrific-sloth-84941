@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "<i class=\"fa fa-home\" aria-hidden=\"true\"></i>",
+                "label": "Home",
                 "url": "/",
                 "style": "link",
                 "icon_class": ""
