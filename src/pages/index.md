@@ -49,7 +49,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: O que motiva...
-    subtitle: e também comprova o resultado de todo
+    subtitle: 'e também comprova o resultado de todos '
     col_number: three
     testimonials:
       - author: Sean Salazar
