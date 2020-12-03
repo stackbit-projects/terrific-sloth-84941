@@ -4,7 +4,7 @@ excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
-date: '2020-09-27'
+date: '2020-11-30'
 thumb_image: images/12.jpg
 image: images/12.jpg
 template: post
