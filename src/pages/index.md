@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Últimos projetos
-    subtitle: 'Aqui está alguns dos meus '
+    subtitle: Aqui está alguns dos meus trabalhos
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
