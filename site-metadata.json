@@ -75,15 +75,7 @@
                 "icon_class": "fa-linkedin",
                 "new_window": true
             },
-            {},
-            {
-                "label": "E-mail",
-                "url": "lorem-ipsum",
-                "style": "icon",
-                "icon_class": "fa-envelope",
-                "new_window": false,
-                "type": "action"
-            }
+            {}
         ]
     },
     "title": "Projetos para sua empresa"
