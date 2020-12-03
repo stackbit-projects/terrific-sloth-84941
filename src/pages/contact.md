@@ -22,7 +22,7 @@ sections:
         default_value: Digite aqui o seu melhor e-mail
         is_required: true
       - input_type: select
-        name: Selecione um assunto
+        name: Assunto
         label: Assunto
         default_value: Please select
         options:
