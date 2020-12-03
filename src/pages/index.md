@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: O que eu faço
-    subtitle: An optional subtitle of the section
+    subtitle: Conheça um pouco sobre o que eu faço e onde posso ajudar você
     col_number: two
     is_numbered: true
     grid_items:
