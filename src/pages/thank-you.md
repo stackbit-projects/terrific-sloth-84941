@@ -4,6 +4,7 @@ image: images/thank-you.jpg
 template: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
+Obrigado por ter entrado em contato, fico muito feliz com isso. Prometo que irei responder o mais rápido possivel, tá? :)
 
-**Have a great day!**
+
+**Tenha um ótimo dia!**
