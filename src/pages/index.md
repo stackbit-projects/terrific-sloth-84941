@@ -22,7 +22,7 @@ sections:
     view_all_url: Conhecer
   - section_id: services
     type: section_grid
-    title: O que eu faço?
+    title: Como eu faço?
     subtitle: Conheça um pouco sobre o que eu faço e onde posso ajudar você
     col_number: two
     is_numbered: true
