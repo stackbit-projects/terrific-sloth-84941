@@ -9,7 +9,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "button",
+                "style": "link",
                 "icon_class": "fa-home"
             },
             {
