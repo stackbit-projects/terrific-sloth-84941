@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      Olá, obrigado pelo interesse em trabalhar comigo. Você pode preencher o
+      formulário abaixo ou enviar um e-mail diretamente para
+      [murilopesr@gmail.com](mailto:murilopesr@gmail.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
