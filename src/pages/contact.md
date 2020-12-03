@@ -22,7 +22,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: Qual é o assu
+        name: Escolha um assunto
         label: Assunto
         default_value: Please select
         options:
