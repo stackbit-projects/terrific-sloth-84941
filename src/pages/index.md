@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Murilo
 hide_title: true
 sections:
   - section_id: hero
