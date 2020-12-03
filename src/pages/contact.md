@@ -28,7 +28,7 @@ sections:
         options:
           - Orçamento
           - Sponsorship
-          - Other
+          - Outro
       - input_type: textarea
         name: message
         label: Mensagem
