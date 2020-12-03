@@ -73,7 +73,7 @@ sections:
     title: Últimas postagens no blog
     subtitle: Feito pra você entender um pouco sobre o que é Design
     posts_number: 3
-    col_number: three
+    col_number: two
     actions:
       - label: Modo completo
         url: blog
