@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Orçamento
-          - Sponsorship
+          - Dúvidas
           - Outro
       - input_type: textarea
         name: message
