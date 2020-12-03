@@ -71,7 +71,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Últimas postagens no blog
-    subtitle: An optional subtitle of the section
+    subtitle: Feito pra você entender um pouco sobre o design
     posts_number: 3
     col_number: three
     actions:
