@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Oi, eu sou o Murilo e aqui está um pouco do meu trabalho.'
     content: >-
-      Designer com enfâse em Design Gráfico e UX/UI Design. Atualmente, cursando
-      ensino superior, estudando inglês e aprendendo diariamente sobre design.
+      Desenvolvo layouts para website ou dispositivos mobiles, também faço artes
+      para mídias sociais, eBook e legendagem.
     actions:
       - label: 'E aí, vamos conversar?'
         url: /contact
