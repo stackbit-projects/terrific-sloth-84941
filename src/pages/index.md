@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Oi, eu sou o Murilo e aqui está um pouco do meu trabalho.'
     content: >-
-      Desenvolvo layouts para website ou dispositivos mobiles, também faço artes
-      para mídias sociais, eBook e legendagem.
+      Desenvolvo layouts para website ou dispositivos mobiles (aplicativos),
+      também faço artes para mídias sociais, eBook, legendagem e algumas outras
+      coisas...
     actions:
       - label: 'E aí, vamos conversar?'
         url: /contact
