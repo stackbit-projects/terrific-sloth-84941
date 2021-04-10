@@ -12,7 +12,7 @@ sections:
     actions:
       - label: 'E aí, vamos conversar?'
         url: /contact
-        style: button
+        style: link
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
